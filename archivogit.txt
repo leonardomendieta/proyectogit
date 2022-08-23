@@ -1,1 +1,3 @@
-Este archivo sera subido al staging area
+Este archivo sera subido al staging area y luego sera commiteado
+
+hacia el repositorio local
